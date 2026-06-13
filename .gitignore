@@ -6,5 +6,4 @@ p2env
 .DS_Store
 */*.pyc
 */__pycache__/*
-services/__pycache__/aws_service.cpython-313.pyc
 *.pyc
